@@ -14,3 +14,5 @@ public class QrCodeCheckInApplication {
     }
 
 }
+
+// new code
